@@ -1,0 +1,15 @@
+Alunos:
+//FÁBIO HENRIQUE DOS SANTOS BUECKER
+//EDUARDO BRITO DUQUE DO NASCIMENTO
+//FELIPE GEOCZE PORCARO RAMOS
+
+link do projeto:https://github.com/buequinho/cadastro.git
+
+//linha 18 variavel tipo inteinro - int
+//linha 119 a 131 possui operações aritimeticas e comandos de atribuição - soma = a + b
+//linha 133 a 114 possui operações logicas - if(nota>=4)
+//linha 32 possui comando de entrada - scanf("%s",nome);
+//linha 31 possui comando de saida - printf("digite seu nome: ");
+//linha 113 a 123  possui estrutura condicional composta - if e else
+//linha 27 a 31 possui estrutura de repetição - do e while
+
